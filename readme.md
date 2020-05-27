@@ -1,6 +1,22 @@
 ![Repository Banner](header_image.png)
 #### Please read [`contributing guidelines`](./contributing.md) before submitting new resources.
 
+## Postmal resources
+>Mix of resources
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [1loc.dev]( https://1loc.dev/)                                                            | Oneliners JS snippets                                |
+| [30secondsofcode](https://www.30secondsofcode.org/)                                                           | JS, CSS, REACT.JS snippets              |
+| [frontbook.dev](https://frontbook.dev/)                                                  | Most popular npm packages                        |
+| [htmldom.dev](https://htmldom.dev/)                                                                    | How to manipulate DOM, vanilla JS     |
+| [csslayout.io](https://csslayout.io)                                                   | Real css layouts in pure css + html       |
+
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Table of Contents
 
 - [UI Graphics](#ui-graphics)
